@@ -108,6 +108,7 @@ $ curl -d '{"device":"67"}' -H 'Content-Type: application/json' http://10.8.8.12
 | ---------- | ---------------------------- | ------------ | ------------ |
 | 10.8.8.113 | tester/rvlab->kernel067      | 10.8.8.117   | 67           |
 | 10.8.8.114 | tester/rvlab->kernel068      | 10.8.8.118   | 68           |
+| 10.8.8.115 | tester/rvlab->kernel069      | 10.8.8.119   | 69           |
 
 控制远程开机/关机/重启的server ip和port: http://10.8.8.123:8080
 
